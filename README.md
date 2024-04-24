@@ -15,12 +15,11 @@ AutoAnalyze-app is a user-friendly web application built with Streamlit that aut
 
 1. Install Dependencies:
 
-Bash
 <code>pip install -r requirements.txt</code>
 Use code with caution.
 
 2. Run the App:
-Bash
+
 <code>streamlit run app.py</code>
 This will launch the AutoAnalyze-app in your web browser, typically at http://localhost:8501.
 
