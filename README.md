@@ -44,4 +44,3 @@ Use the scrollbar to navigate through the report.
 Any contributions are highly appreciable.
 Feel free to reach out to me with any questions or feedback: 
 - Email - [Gmail](tanushtm.work@gmail.com)
-- Instagram ID -  _._txnush_._
