@@ -1,7 +1,5 @@
 # AutoAnalyze-app
 
-## Description
-
 AutoAnalyze-app is a user-friendly web application built with Streamlit that automates exploratory data analysis (EDA) tasks, simplifying the process of understanding your datasets. Upload your CSV file, and the app will generate a comprehensive report, saving you valuable time and effort.
 
 ## Technology Used
